@@ -1,0 +1,23 @@
+{
+  "short_name": "字",
+  "name": "认字",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./img/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#EEE",
+  "display": "standalone",
+  "scope": "/zi/",
+  "theme_color": "#EEE"
+}
+

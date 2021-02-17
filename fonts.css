@@ -1,0 +1,14 @@
+@font-face {
+        font-family: XinDiZhaoMeng-1;
+        src: url(fonts/XinDiZhaoMeng-1.woff) format("woff");
+}
+@font-face {
+        font-family: jin;
+        src: url(fonts/jin.woff) format("woff");
+}
+@font-face {
+        font-family: zhuan;
+        src: url(fonts/zhuan.woff) format("woff");
+}
+
+
