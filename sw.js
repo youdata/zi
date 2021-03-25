@@ -1,6 +1,6 @@
 importScripts("cache-polyfill.js")
 var PREFIX = "zi"
-var CACHE_VERSION = 'zi-v0.0.8';
+var CACHE_VERSION = 'zi-v0.0.9';
 var CACHE_FILES = [
     "./manifest.json",
     "./lib.js", 
